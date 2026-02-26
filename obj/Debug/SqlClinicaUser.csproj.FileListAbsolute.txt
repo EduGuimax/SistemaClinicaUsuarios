@@ -1,0 +1,182 @@
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.exe.config
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.exe
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.pdb
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Properties.Resources.resources
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela1.resources
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.exe
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.pdb
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.exe.config
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela2.resources
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\MySql.Data.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Buffers.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.IO.Pipelines.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Memory.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\ZstdSharp.dll
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.pdb
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\MySql.Data.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Buffers.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.IO.Pipelines.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Memory.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eduar\source\repos\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClini.06879A03.Up2Date
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.exe.config
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.exe
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.pdb
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\MySql.Data.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Buffers.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Memory.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\ZstdSharp.dll
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.pdb
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\MySql.Data.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Buffers.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Memory.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.AssemblyReference.cache
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Properties.Resources.resources
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela1CPac.resources
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela2CMed.resources
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.GenerateResource.cache
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.CoreCompileInputs.cache
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClini.06879A03.Up2Date
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.exe
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.pdb
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Menu.resources
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela4CP.resources
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela3ACC.resources
+C:\Users\kyuto\OneDrive\Área de Trabalho\FACULDADE\Brenner\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela5CPR.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.exe.config
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.exe
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.pdb
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\MySql.Data.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Buffers.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.IO.Pipelines.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Memory.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\ZstdSharp.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.pdb
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\MySql.Data.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Buffers.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.IO.Pipelines.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Memory.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.exe.config
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Menu.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Properties.Resources.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela1CPac.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela2CMed.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela3ACC.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela4CP.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela5CPR.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.GenerateResource.cache
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClini.06879A03.Up2Date
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.exe
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.pdb
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.exe.config
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.exe
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\SqlClinicaUser.pdb
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\MySql.Data.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Buffers.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.IO.Pipelines.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Memory.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\ZstdSharp.dll
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.pdb
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Google.Protobuf.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\MySql.Data.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Buffers.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.IO.Pipelines.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Memory.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Menu.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Properties.Resources.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela1CPac.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela2CMed.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela3ACC.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela4CP.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.Tela5CPR.resources
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.GenerateResource.cache
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClini.06879A03.Up2Date
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.exe
+C:\Users\eduar\Downloads\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\SqlClinicaUser\obj\Debug\SqlClinicaUser.pdb
